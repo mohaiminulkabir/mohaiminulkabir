@@ -108,7 +108,7 @@ AI-powered legal assistant using LLMs and RAG to answer Bangladeshi legal questi
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.researchgate.net/profile/Mohammed-Jieaf?ev=hdr_xprf">
+<a href="https://www.researchgate.net/profile/Md-Kabir-221">
 <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
 </a>
 
