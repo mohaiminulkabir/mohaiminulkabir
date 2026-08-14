@@ -104,7 +104,7 @@ AI-powered legal assistant using LLMs and RAG to answer Bangladeshi legal questi
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohammed-jieaf-68808240b/">
+<a href="https://www.linkedin.com/in/md-mohaiminul-kabir-2210992aa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
